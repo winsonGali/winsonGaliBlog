@@ -1,6 +1,6 @@
 ---
-title: iOS通用链接
-date: 2017-07-26 13:44:37
+title: iOS Universal Links
+date: 2017-07-28 14:47:18
 tags:
 ---
 ![](http://upload-images.jianshu.io/upload_images/6067780-bfbf1d20b36064e7.gif?imageMogr2/auto-orient/strip)
